@@ -1,0 +1,154 @@
+body {
+    background-color: #fff;
+}
+
+.header-line {
+    background-color: #A993B6;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1905px;
+    height: 8px;
+}
+
+a {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 19px;
+}
+
+.link-home {
+    background: url(../images/icons/home.png) no-repeat left center;
+    background-size: 16px;
+    display: inline-block;
+    vertical-align: bottom;
+    padding-left: 25px;
+    text-decoration: none;
+}
+
+.link-about {
+    background: url(../images/icons/about.png) no-repeat left center;
+    background-size: 16px;
+    display: inline-block;
+    vertical-align: bottom;
+    padding-left: 25px;
+    text-decoration: none;
+}
+
+.link-services {
+    background: url(../images/icons/services.png) no-repeat left center;
+    background-size: 16px;
+    display: inline-block;
+    vertical-align: bottom;
+    padding-left: 25px;
+    text-decoration: none;
+}
+
+.link-contact {
+    background: url(../images/icons/contact.png) no-repeat left center;
+    background-size: 16px;
+    display: inline-block;
+    vertical-align: bottom;
+    padding-left: 25px;
+    text-decoration: none;
+}
+
+.content-box {
+    padding-top: 30px;
+    max-width: 1020px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.content-image {
+    margin: 0 auto;
+    padding-top: 60px;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.nav {
+    text-align: right;
+    word-spacing: 80px;
+    padding-top: 20px;
+}
+
+.logo-image {
+    position: absolute;
+}
+
+.content-text1 {
+    height: 133px;
+    margin: 0 auto;
+    border-style: solid;
+    border-width: 1px;
+    border-color: darkgray;
+    border-right: 0;
+    border-left: 0;
+    margin-top: 40px;
+}
+
+.con-text1 {
+    text-align: center;
+    font-size: 23px;
+    font-family: 'Lato', sans-serif;
+    line-height: 1.75;
+    opacity: 90%;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.colortext {
+    color: #8C69A0;
+}
+
+.content-text2 {
+    margin-top: 40px;
+}
+
+.colortext2 {
+    font-size: 31px;
+    color: #4F4F50;
+}
+
+.con-text2 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    color: #989898;
+    font-size: 15px;
+    width: 675px;
+    line-height: 1.8;
+    float: right;
+}
+
+.colortext3 {
+    font-family: 'Lato', italic;
+    font-size: 13px;
+    float: right;
+    background: url(../images/icons/arrow.png) no-repeat right center;
+    background-size: 16px;
+    display: inline-block;
+    vertical-align: bottom;
+    padding-right: 25px;
+    text-decoration: none;
+}
+
+.colortext4 {
+    font-family: 'Roboto Slab', bold;
+    font-size: 23px;
+
+}
+
+.con-text3 {
+    font-family: 'Roboto Slab', lighter;
+    font-size: 23px;
+}
+
+.footer {
+    background-color: #A993B6;
+    position: absolute;
+    left: 0;
+    width: 1905px;
+    height: 8px;
+    margin-top: 30px;
+}
